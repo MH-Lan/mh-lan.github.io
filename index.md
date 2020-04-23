@@ -1,39 +1,43 @@
-demo
+<img src="https://github.com/MH-Lan/mh-lan.github.io/blob/master/BIO%20%E8%AE%BA%E6%96%87%E5%8E%8B%E7%BC%A9.jpg?raw=true" width="100" align=left />
 
-## Welcome to GitHub Pages
+**Muhang Lan**
 
-You can use the [editor on GitHub](https://github.com/MH-Lan/muhang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[National Key Laboratory of Science and Technology on Communications](http://www.ncl.uestc.edu.cn/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/)
 
-### Markdown
+Advisor: [Professor Huang Chuan](http://faculty.uestc.edu.cn/huangchuan/zh_CN/index.htm)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Contact
 
-```markdown
-Syntax highlighted code block
+ Xiyuan Ave. 2006, Chengdu, P.R.China, 611731
 
-# Header 1
-## Header 2
-### Header 3
+mhlan@std.uestc.edu.cn
 
-- Bulleted
-- List
+# Research Interests
 
-1. Numbered
-2. List
+* Wireless communications
+* Machine learning
+* Multi-user information theory
 
-**Bold** and _Italic_ and `Code` text
+# Publications
 
-[Link](url) and ![Image](src)
-```
+* J. Huang, **M. Lan**, H. Zhang, C. Huang, W. Zhang and S. Cui, "Design of Noncoherent Communications: From Statistical Method to Machine Learning," in *IEEE Wireless Commun.*, vol. 27, no. 1, pp. 76-83, Feb. 2020.
+* H. Zhang, **M. Lan**, J. Huang, C. Huang and S. Cui, "Noncoherent Energy-Modulated Massive SIMO in Multipath Channels: A Machine Learning Approach," accepted by *IEEE Internet of Things Journal*.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Awards
 
-### Jekyll Themes
+* Outstanding Undergraduate Thesis (8/780), 2018
+* National Encouragement scholarship, 2017
+* Second Prize of Sichuan Competition Area, [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/), 2017
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MH-Lan/muhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Education
 
-### Support or Contact
+* B.Eng., Communication Engineering, University of Electronic Science and Technology of China (UESTC), 2014-2018
+* M.Eng., Electronic and Communication Engineering,  University of Electronic Science and Technology of China (UESTC), 201-present
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Research experiences
+
+* [National Key Laboratory of Science and Technology on Communications](http://www.ncl.uestc.edu.cn/), UESTC, 2017-2019
+* Future Network of Intelligence Institute, [the Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), 2019-present
+
