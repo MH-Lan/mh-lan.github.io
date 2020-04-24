@@ -1,4 +1,4 @@
-<img src="https://github.com/MH-Lan/MH-Lan.github.io/blob/master/BIO%20pic.jpg?raw=true" width="150" align="middle" />
+<img src="https://i.loli.net/2020/04/24/kXCohg1Hw7epF5W.jpg" width="150" align="middle" />
 
 
 **Muhang Lan**
