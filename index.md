@@ -1,7 +1,7 @@
 <img src="https://i.loli.net/2020/04/24/kXCohg1Hw7epF5W.jpg" width="150" align="middle" />
 
 
-**Muhang Lan**
+**Muhang Lan (兰牧沆)**
 
 mhlan@std.uestc.edu.cn
 
