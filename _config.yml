@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Muhang Lan's Homepage
 
 
+favicon:
+small: 16-16.ico
+medium: 32-32.ico
