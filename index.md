@@ -11,7 +11,7 @@ mhlan@std.uestc.edu.cn
 
 Advisor: [Professor Chuan Huang](http://faculty.uestc.edu.cn/huangchuan/zh_CN/index.htm)
 
-# Research Interests
+# Research interests
 
 * Wireless communications
 * Machine learning
