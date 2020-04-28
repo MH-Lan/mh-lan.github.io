@@ -15,7 +15,7 @@ Advisor: [Professor Chuan Huang](http://faculty.uestc.edu.cn/huangchuan/zh_CN/in
 
 * Wireless communications
 * Machine learning
-* Multi-user information theory
+* Information theory
 
 # Publications
 
